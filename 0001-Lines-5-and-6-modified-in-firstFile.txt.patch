@@ -1,0 +1,27 @@
+From f9589d8cdce750be711ef4ee78d577ec30090a2e Mon Sep 17 00:00:00 2001
+From: Abdulaziz <learntodevelop2020@gmail.com>
+Date: Thu, 9 Mar 2023 14:05:53 +0500
+Subject: [PATCH] Lines 5 and 6 modified in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..135f3fb 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -2,8 +2,8 @@ Line 1
+ Line 2
+ Line 3
+ Line 4
+-Line 5
+-Line 6
++L5
++L6
+ Line 7
+ Line 8
+ Line 9
+-- 
+2.30.1.windows.1
+
